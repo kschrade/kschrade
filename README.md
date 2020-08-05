@@ -15,6 +15,9 @@
 
 ### 📕 Latest Blog Posts (Coming soon)
 <!-- BLOG-POST-LIST:START -->
+- [Week 1 GrpahQL Summit Federation chat Q/A](https://lumen.netlify.com/posts/GQL-Summit-w1-qa)
+- [Why use GraphQL?](https://lumen.netlify.com/posts/why-use-graphql)
+- [Welcome to my Blog!](https://lumen.netlify.com/posts/welcome)
 <!-- BLOG-POST-LIST:END -->
 
 ### Personal Github
