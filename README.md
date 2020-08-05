@@ -28,7 +28,7 @@
 
 <br />
 
-### StockX Github
+### [StockX Github](https://github.com/kyleschrade)
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kyleschrade&show_icons=true&hide_border=true&theme=radical&count_private=true" />
 
