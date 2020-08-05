@@ -13,7 +13,7 @@
 
 <br />
 
-### 📕 Latest Blog Posts (Coming soon)
+### 📕 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [Week 1 GrpahQL Summit Federation chat Q/A](https://kyleschrade-blog.netlify.app//posts/GQL-Summit-w1-qa)
 - [Why use GraphQL?](https://kyleschrade-blog.netlify.app//posts/why-use-graphql)
