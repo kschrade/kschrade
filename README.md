@@ -15,6 +15,7 @@
 
 ### 📕 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Caching Strategies in a Federated GraphQL Architecture](https://kyleschrade-blog.netlify.app//posts/caching-strategies-in-a-federated-graphql-architecture)
 - [Lessons from a year of GraphQL](https://kyleschrade-blog.netlify.app//posts/lessions-from-a-year-of-gql)
 - [Week 1 GrpahQL Summit Federation chat Q/A](https://kyleschrade-blog.netlify.app//posts/GQL-Summit-w1-qa)
 - [Why use GraphQL?](https://kyleschrade-blog.netlify.app//posts/why-use-graphql)
