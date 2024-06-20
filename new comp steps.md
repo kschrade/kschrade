@@ -9,6 +9,9 @@
   b. [install syntax highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md#oh-my-zsh)  
 7. [install nvm](https://github.com/nvm-sh/nvm?tab=readme-ov-file#install--update-script)
 
+
+color theam for iterm2: tinacious design (dark) - [download here](https://iterm2colorschemes.com/)
+
 ## `.zshrc` config
 
 ```bash
