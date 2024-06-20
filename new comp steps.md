@@ -3,10 +3,11 @@
 2. [download rectangle](https://rectangleapp.com/)
 3. [install homebrew](https://docs.brew.sh/Installation)
 4. [install iterm2](https://iterm2.com/)
-5. [install ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)  
+5. [install powerline fonts](https://github.com/powerline/fonts) 
+6. [install ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)  
   a. [install autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)  
   b. [install syntax highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md#oh-my-zsh)  
-6. [install nvm](https://github.com/nvm-sh/nvm?tab=readme-ov-file#install--update-script)
+7. [install nvm](https://github.com/nvm-sh/nvm?tab=readme-ov-file#install--update-script)
 
 ## `.zshrc` config
 
