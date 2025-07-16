@@ -5,10 +5,10 @@
 - 💬 Ask me about anything! no serously just about anyhting. -->
 ### 📫 How to reach me: 
 
-[<img align="left" alt="https://kyleschrade-blog.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<!--[<img align="left" alt="https://kyleschrade-blog.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!--[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Email]
 
 <br />
@@ -42,8 +42,8 @@
 <br />
 
 
-[website]: https://kyleschrade-blog.netlify.app/
+<!-- [website]: https://kyleschrade-blog.netlify.app/
 [twitter]: https://twitter.com/codeSTACKr
 [email]: kyleschrade2@gmail.com
 [instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://www.linkedin.com/in/kyle-schrade-63a003aa
+[linkedin]: https://www.linkedin.com/in/kyle-schrade-63a003aa -->
