@@ -1,9 +1,9 @@
-### Hello Everyone! 👋
+## Hello Everyone! 👋
 
-- 🔭 I’m currently working on becoming a better developer! And my main focus right now is yelling things into the internet though blog posts and twitter.
+<!-- - 🔭 I’m currently working on becoming a better developer! And my main focus right now is yelling things into the internet though blog posts and twitter.
 - 👯 I’m looking to collaborate on any type of node project and/or talk about GraphQL
-- 💬 Ask me about anything! no serously just about anyhting.
-- 📫 How to reach me: 
+- 💬 Ask me about anything! no serously just about anyhting. -->
+### 📫 How to reach me: 
 
 [<img align="left" alt="https://kyleschrade-blog.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -13,7 +13,7 @@
 
 <br />
 
-### 📕 Latest Blog Posts 
+### 📕 Latest Blog Posts (This is no longer kept up)
 <!-- BLOG-POST-LIST:START -->
 - [Caching Strategies in a Federated GraphQL Architecture](https://kyleschrade-blog.netlify.app//posts/caching-strategies-in-a-federated-graphql-architecture)
 - [Lessons from a year of GraphQL](https://kyleschrade-blog.netlify.app//posts/lessions-from-a-year-of-gql)
@@ -22,7 +22,7 @@
 - [Welcome to my Blog!](https://kyleschrade-blog.netlify.app//posts/welcome)
 <!-- BLOG-POST-LIST:END -->
 
-### Personal Github
+<!-- ### Personal Github
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kschrade&show_icons=true&hide_border=true&theme=radical" />
 
@@ -36,6 +36,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=kyleschrade&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
 
 <br />
 
