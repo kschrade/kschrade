@@ -7,20 +7,20 @@
 
 <!--[<img align="left" alt="https://kyleschrade-blog.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-schrade-63a003aa)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyleschrade2@gmail.com)
 <!--[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Email]
 
 <br />
 
-### 📕 Latest Blog Posts (This is no longer kept up)
-<!-- BLOG-POST-LIST:START -->
+<!--### 📕 Latest Blog Posts (This is no longer kept up) 
+<!-- BLOG-POST-LIST:START --> <!--
 - [Caching Strategies in a Federated GraphQL Architecture](https://kyleschrade-blog.netlify.app//posts/caching-strategies-in-a-federated-graphql-architecture)
 - [Lessons from a year of GraphQL](https://kyleschrade-blog.netlify.app//posts/lessions-from-a-year-of-gql)
 - [Week 1 GrpahQL Summit Federation chat Q/A](https://kyleschrade-blog.netlify.app//posts/GQL-Summit-w1-qa)
 - [Why use GraphQL?](https://kyleschrade-blog.netlify.app//posts/why-use-graphql)
 - [Welcome to my Blog!](https://kyleschrade-blog.netlify.app//posts/welcome)
-<!-- BLOG-POST-LIST:END -->
+--><!-- BLOG-POST-LIST:END -->
 
 <!-- ### Personal Github
 
