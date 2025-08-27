@@ -7,15 +7,15 @@
 5. [install powerline fonts](https://github.com/powerline/fonts) 
 6. [install ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
    1. `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
-      a. [install autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
-   2. `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
-      b. [install syntax highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md#oh-my-zsh)   
+      1. [install autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
+   2. `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions` 
+      1.  [install syntax highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md#oh-my-zsh)   
   `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
-8. [install nvm](https://github.com/nvm-sh/nvm?tab=readme-ov-file#install--update-script)
-9. [install windsurf](https://windsurf.com/editor/download-confirmation?code=ma)
-10. [install intellij](https://www.jetbrains.com/idea/download/download-thanks.html?platform=mac&code=IIC)
+1. [install nvm](https://github.com/nvm-sh/nvm?tab=readme-ov-file#install--update-script)
+2. [install windsurf](https://windsurf.com/editor/download-confirmation?code=ma)
+3.  [install intellij](https://www.jetbrains.com/idea/download/download-thanks.html?platform=mac&code=IIC)
 
-color theam for iterm2: tinacious design (dark) - [download here](https://iterm2colorschemes.com/)
+color theme for iterm2: tinacious design (dark) - [download here](https://iterm2colorschemes.com/)
 
 ## `.zshrc` config
 
